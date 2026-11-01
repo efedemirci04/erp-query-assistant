@@ -1,4 +1,0 @@
--- V1: ERP schema goes here.
--- We will design the tables together, then fill this file.
--- Flyway runs every V<n>__*.sql file once, in order, and records it in flyway_schema_history.
--- Never edit a migration after it has run; add a new V2__..., V3__... file instead.
